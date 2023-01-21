@@ -1,4 +1,4 @@
-baseURL = 'leafboots.github.io'
+baseURL = 'https://leafboots.github.io/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'hello-friend'
