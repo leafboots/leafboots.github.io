@@ -3,7 +3,8 @@ title: "Third Post"
 date: 2023-01-21T11:22:43+05:30
 ---
 
-![Image](/static/img/aabaebc013125295268487f34cdf0032.​jpg)
+![Image](/static/img/youtube.png)
 How are u dong pal:?
 
-<img src="../../static/img/3cdbce557fc28b49ef84e8a7b5b44d8c.​jpg">
+
+sdflj
