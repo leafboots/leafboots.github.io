@@ -5,22 +5,42 @@
     
     
     
-    <link>leafboots.github.io/</link>
+    <link>https://leafboots.github.io/</link>
     <description>Recent content on Leafboots</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2023. All RIghts Reserved.</copyright>
-    <lastBuildDate>Fri, 20 Jan 2023 19:55:06 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 21 Jan 2023 11:22:43 +0530</lastBuildDate>
     
-	<atom:link href="leafboots.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://leafboots.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Third Post</title>
+      <link>https://leafboots.github.io/posts/third-post/</link>
+      <pubDate>Sat, 21 Jan 2023 11:22:43 +0530</pubDate>
+      
+      <guid>https://leafboots.github.io/posts/third-post/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          How are u dong pal:?
+          
+        
+        </description>
+    </item>
+    
+    <item>
       <title>Second Post</title>
-      <link>leafboots.github.io/posts/second-post/</link>
+      <link>https://leafboots.github.io/posts/second-post/</link>
       <pubDate>Fri, 20 Jan 2023 19:55:06 +0530</pubDate>
       
-      <guid>leafboots.github.io/posts/second-post/</guid>
+      <guid>https://leafboots.github.io/posts/second-post/</guid>
       <description>
         
           
@@ -38,10 +58,10 @@ She had a terrible habit o comparing her life to others.
     
     <item>
       <title>My First Post</title>
-      <link>leafboots.github.io/posts/my-first-post/</link>
+      <link>https://leafboots.github.io/posts/my-first-post/</link>
       <pubDate>Fri, 20 Jan 2023 17:55:43 +0530</pubDate>
       
-      <guid>leafboots.github.io/posts/my-first-post/</guid>
+      <guid>https://leafboots.github.io/posts/my-first-post/</guid>
       <description>
         
           
@@ -59,10 +79,10 @@ It had been a late night. To be more correct, it had been an early morning.
     
     <item>
       <title>About</title>
-      <link>leafboots.github.io/about/</link>
+      <link>https://leafboots.github.io/about/</link>
       <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>leafboots.github.io/about/</guid>
+      <guid>https://leafboots.github.io/about/</guid>
       <description>
         
           
@@ -81,10 +101,10 @@ This theme is pretty basic and covers all of the essentials. All you have to do 
     
     <item>
       <title>Archive</title>
-      <link>leafboots.github.io/archive/</link>
+      <link>https://leafboots.github.io/archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>leafboots.github.io/archive/</guid>
+      <guid>https://leafboots.github.io/archive/</guid>
       <description>
         
           
